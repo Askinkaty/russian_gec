@@ -8,8 +8,8 @@ A new version of RULEC-GEC can be obtained in several steps.
 
 1. Get an original RULEC-GEC at https://github.com/arozovskaya/RULEC-GEC
 2. Copy the original RULEC-GEC.text.M2 file
-3. Use a patch file ```RULEC-GEC_updates.patch```. The copy of the test files will include correction updates.
-   ```patch RULEC-GEC.copy_of_test.M2 RULEC-GEC_updates.patch```
+3. Use a patch file ```RULEC-GEC_test_updates.patch```. The copy of the test files will include correction updates.
+   ```patch RULEC-GEC.copy_of_test.M2 RULEC-GEC_test_updates.patch```
 
 Check out performance of a T5-based GEC model on a new test M2 file in the paper: 
 
